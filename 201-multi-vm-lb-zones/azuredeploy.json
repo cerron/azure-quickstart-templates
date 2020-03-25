@@ -5,10 +5,10 @@
     "location": {
       "type": "string",
       "allowedValues": [
-        "CentralUS",
-        "FranceCentral"
+        "EastUS",
+        "EastUS2"
       ],
-      "defaultValue": "CentralUS",
+      "defaultValue": "EastUS",
       "metadata": {
         "description": "Location for the VMs, only certain regions support zones during preview."
       }
